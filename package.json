@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "homepage": "https://thisis-Shitanshu.github.io/svg-cat-animation-on-fly",
+  "author": "Shitanshu",
+  "dependencies": {
+    "gh-pages": "2.1.1"
+  }
+}
